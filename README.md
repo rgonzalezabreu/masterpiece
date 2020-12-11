@@ -21,17 +21,17 @@ A curated list of awesome repository tools, technologies, platforms and resource
   * [Software Quality](#software-quality)
 
 ## Development Environments
----
+
 Configure software development environments.
 
 ## Cloud Platforms
----
+
 - Amazon Web Services (AWS)
 - Google Cloud Platform (GCP)
 - Azure (Az)
 
 ## CI CD and Pipelines
----
+
 - GitLab
 - GitHub
 - Azure DevOps
@@ -39,17 +39,17 @@ Configure software development environments.
 - ArgoCD
 
 ## Infrastructure As Code
----
+
 - Ansible
 - Terraform
 - Pulumi
 
 ## Source Code Management
----
+
 - Git tools
 
 ## Software Development
----
+
 Software development
 
 ### Front End Development
@@ -57,7 +57,7 @@ Software development
 ### Back End Development
 
 ## API
----
+
 
 ### API Management Tools
 
@@ -70,15 +70,15 @@ Software development
 - Postman & Newman
 
 ## Packaging & Artifacts
----
+
 - Azure DevOps Artifacts
   
 ## Databases
----
+
 Databases
 
 ## QA
----
+
 QA
 
 ### Test Automation
