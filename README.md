@@ -1,9 +1,7 @@
 # Boilerplates for developing projects
 A curated list of awesome repository tools, technologies, platforms and resources. Things to help/grow you in *Technical* area.
 
-* [Creating Your Own Repo](CREATE-REPO.md)
-* [Contributing guide](CONTRIBUTING.md)
-* [License](LICENSE.md)
+[How to contribute](docs/contributing.md)
 
 ## Contents
 
