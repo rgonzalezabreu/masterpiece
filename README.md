@@ -5,35 +5,54 @@ A curated list of awesome repository tools, technologies, platforms and resource
 
 ## Contents
 
-- [Development Environments](#development-environments)
-- [Cloud Platforms](#cloud-platforms)
-- [CI CD and Pipelines](#ci-cd-and-pipelines)
-- [Infrastructure As Code](#infrastructure-as-code)
-- [Source Code Management](#source-code-management)
+- [Configuration and Platform](#configuration-and-platform)
+  - [Cloud Platforms](#cloud-platforms)
+  - [Packaging & Artifacts](#packaging---artifacts)
+- [Planning](planning)
 - [Software Development](#software-development)
   * [Front End Development](#front-end-development)
   * [Back End Development](#back-end-development)
-- [API](#api)
-  * [API Management Tools](#api-management-tools)
-  * [API testing](#api-testing)
-- [Packaging & Artifacts](#packaging---artifacts)
-- [Databases](#databases)
-- [QA](#qa)
+  * [Database Management](#database-management)
+- [CICD Deliver Pipelines Integration](#cicd-deliver-pipelines-integration)
+  - [Infrastructure As Code](#infrastructure-as-code)
+  - [Source Code Management](#source-code-management)
+- [Quality Assurance](#quality-assurance)
   * [Test Automation](#test-automation)
   * [Software Quality](#software-quality)
 
-## Development Environments
-
+## Configuration and Platform
 Configure software development environments.
 
-## Cloud Platforms
+### Cloud Platforms
+Cloud platforms
 
-- Amazon Web Services (AWS)
-- Google Cloud Platform (GCP)
-- Azure (Az)
-  - [What is Azure and How Does It Work?](https://www.simplilearn.com/tutorials/azure-tutorial/what-is-azure)
+  - Amazon Web Services (AWS)
+  - Google Cloud Platform (GCP)
+  - Azure (Az)
+    - [What is Azure and How Does It Work?](https://www.simplilearn.com/tutorials/azure-tutorial/what-is-azure)
 
-## CI CD and Pipelines
+### Packaging & Artifacts
+Packaging and artifacts...
+
+- Azure DevOps Artifacts
+
+## Planning
+Requirements analysis and design.
+
+## Software Development
+Software development...
+
+### Front End Development
+Front End Development...
+
+### Back End Development
+Back End Development...
+
+### Database Management
+Database management...
+
+## CICD Deliver Pipelines Integration
+Continuous integration, continuous deployment...
 
 - GitLab
 - GitHub
@@ -41,48 +60,19 @@ Configure software development environments.
 - Jetkins
 - ArgoCD
 
-## Infrastructure As Code
+### Infrastructure As Code
+Infrastructure as code and automation of infrastructure...
 
 - Ansible
 - Terraform
 - Pulumi
 
-## Source Code Management
+### Source Code Management
 
 - Git tools
 
-## Software Development
-
-Software development
-
-### Front End Development
-
-### Back End Development
-
-## API
-
-
-### API Management Tools
-
-- Kong
-- Azure Serivces Management
-- WSO2
-
-### API testing
-
-- Postman & Newman
-
-## Packaging & Artifacts
-
-- Azure DevOps Artifacts
-  
-## Databases
-
-Databases
-
-## QA
-
-QA
+## Quality Assurance
+Quality assurance...
 
 ### Test Automation
 
