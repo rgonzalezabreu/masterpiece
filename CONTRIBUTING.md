@@ -1,5 +1,5 @@
 [code_of_conduct]: CODE_OF_CONDUCT.md
-[repo_from_template]: [CODE_OF_CONDUCT.md](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
+[repo_from_template]: https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template
 
 # Getting started
 Please note that this project is released with a Contributor [Code of Conduct][code_of_conduct]. By participating in this project you agree to abide by its terms.
