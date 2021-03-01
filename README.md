@@ -1,29 +1,29 @@
 ![GitHub Logo](/assets/logo-standard.png)
 
 # Boilerplates for developing projects
-A curated list of awesome repository tools, technologies, platforms and resources. Things to help/grow you in *Technical* area.
+A curated list of awesome repository Guidelines, PoC's, StarterKits and many resources. Things to help/grow you in *Technical* area.
 
-[How to contribute](contribute)
+[How to contribute](CONTRIBUTING.md)
 
-## BackEnd
+### BackEnd
 - *BackEnd Development...*
 
-## FrontEnd
+### FrontEnd
 - *FrontEnd Development...*
 
-## Quality Assurance
+### Quality Assurance
 - *Quality assurance...*
 
 ### Cloud
 - *Public and Private Cloud Platforms.*
 
-## DevOps
+### DevOps
 - *Continuous integration, continuous deployment...*
 
-## Management
+### Management
 - *Requirements analysis and design...*
 
-## Embedded
+### Embedded
 - *Embedded systems...*
 
 # License
