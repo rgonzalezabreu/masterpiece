@@ -14,6 +14,13 @@ If you have an idea to share in the form of Proof of concept, Starterkit or Guid
    
    Use this guide [Creating a repository from a template][repo_from_template] to create your repository from "erni-academy-template".
 
+   Please, pay attention to the new repository name and follow this simple schema:
+
+   - **{type}-{learningPath}-{description}**
+   - poc-frontend-start-with-angular
+   - starterkit-backend-net-api
+   - guideline-devops-pipelines
+
 2. **Clone** the repository to your own machine
     ```sh
     git clone https://github.com/ERNI-Academy/my-project.git
