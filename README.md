@@ -1,9 +1,9 @@
 ![GitHub Logo](/assets/logo-standard.png)
 
-# Boilerplates for developing projects
+# Awesome resources for developing projects
 A curated list of awesome repository Guidelines, PoC's, StarterKits and many resources. Things to help/grow you in *Technical* area.
 
-[How to contribute](CONTRIBUTING.md)
+Please see our [Contribution Guide](CONTRIBUTING.md) to learn how to contribute.
 
 ### BackEnd
 - *BackEnd Development...*
